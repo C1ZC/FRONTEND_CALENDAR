@@ -25,6 +25,12 @@ Una aplicación web moderna para gestionar y visualizar el estado de citas de la
 - npm o yarn
 - Backend FastAPI ejecutándose en `http://localhost:8000`
 
+## Video Instalación
+
+Puedes ver la instalación en video del proyecto aquí:  
+[![Ver video en YouTube](https://img.youtube.com/vi/PrNL07mUXNQ/0.jpg)](https://youtu.be/PrNL07mUXNQ)
+
+
 ## 🔧 Instalación
 
 1. **Clonar el repositorio**
