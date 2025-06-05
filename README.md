@@ -30,6 +30,7 @@ Una aplicación web moderna para gestionar y visualizar el estado de citas de la
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/C1ZC/FRONTEND_CALENDAR.git
+cd FRONTEND_CALENDAR
 ```
 
 2. **Instalar dependencias**
